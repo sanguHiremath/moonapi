@@ -1,0 +1,6 @@
+framework module Pods_moonapi_Example {
+  umbrella header "Pods-moonapi_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

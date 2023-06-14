@@ -1,0 +1,22 @@
+{
+  "name": "moonapi",
+  "version": "0.1.0",
+  "summary": "A short description of moonapi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/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/moonapi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "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": "sangamesh.hiremath@standardbank.co.za"
+  },
+  "source": {
+    "git": "https://github.com/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/moonapi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "moonapi/Classes/**/*"
+}

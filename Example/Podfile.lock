@@ -1,0 +1,16 @@
+PODS:
+  - moonapi (0.1.0)
+
+DEPENDENCIES:
+  - moonapi (from `../`)
+
+EXTERNAL SOURCES:
+  moonapi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  moonapi: c5abec26641d183c1ef43e3518a886d386fd9e67
+
+PODFILE CHECKSUM: a35d7dfca24461a646d1e36885b38e8bf607f4c6
+
+COCOAPODS: 1.12.1
